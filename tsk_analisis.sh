@@ -7,3 +7,6 @@ done < archivo
 
 
 echo hola
+
+
+editando  earchivo 
